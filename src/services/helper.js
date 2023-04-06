@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://cloudq-backend.onrender.com"
